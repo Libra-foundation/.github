@@ -35,4 +35,4 @@
 <div align="center">
     <h3>Python template</h3>
 </div>
-<p>It's always difficult to code properly when you start codding with a permissive language. In the same vein as React template, we created Python template, a free and open template for all python projects. Like its namesake, python template embedded advanced linting rules, automates boring work and so on. Very advantageous, this template set boundaries to working team. <br> Moreover, Python template hold branches for specific Python projects as Django branch. A helpful Django template with standardized logs, connection to OAuth2 server, etc.  </p>
+<p>It's always difficult to code properly when you start codding with a permissive language. In the same vein as React template, we created Python template, a free and open template for all python projects. Like its namesake, python template embedded advanced linting rules, automates boring work and so on. Very advantageous, this template set boundaries to working team. <br> Moreover, Python template hold branches for specific Python projects, such as a Django branch. A helpful Django template with standardized logs, connection to OAuth2 server, etc.  </p>
