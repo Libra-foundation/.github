@@ -2,7 +2,7 @@
 
 ***This part help you to don't forget anything before create pull request, If everything seem good you can delete it***
 
-Thanks for your contribution :heart:. Before creating pull
+Thanks for your contribution :heart:. Before creating a pull
 request please make sure :
 
 - [ ] Your code follows the style guidelines of this project
@@ -14,12 +14,12 @@ request please make sure :
 - [ ] New and existing unit tests pass locally with your changes
 - [ ] Any dependent changes have been merged and published in downstream modules
 
-Your pull request title must contain type of change plus a short description. Title type must be relevant and minimal (one or two words), this is a non-exhaustive list:
+Your pull request title must contain a tag type plus a short description. Tag must be relevant and minimal, this is a non-exhaustive list:
 
-- Bug fix (non-breaking change which fixes an issue)
-- New feature (non-breaking change which adds functionality)
-- Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- Documentation update
+- [BUG] : bug fix.
+- [FEATURE] : changes which adds functionality.
+- [BREAKING] : prepend this tag to any PR that breaks retro-compatibility.
+- [DOCUMENTATION] : documentation update.
 
 Example of title : `Bug fix : Pinneaples on pizza were removed`
 
