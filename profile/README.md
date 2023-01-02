@@ -31,8 +31,8 @@
 <div align="center">
     <h3>React template</h3>
 </div>
-<p>React template is a free, reliable and easy to maintain template for react project. Based on `react-scripts`, we have added hardened rules, to keep the code consistent and help everyone avoids mistakes. An extra set of utility packages that automates most of the annoying work was implemented. This template is particularly useful for newcomer to guide them, they will learn React Typescript with good practices.</p>
+<p>React template is a free, reliable and easy to maintain template for react project. Based on `react-scripts`, we configured a set of utility packages that automates most of the annoying work. To help everyone avoid common mistakes and keep the code nice and tidy, we added hardened rules.  This template is particularly useful for newcomers to guide them through the learning of React Typescript with good practices.</p>
 <div align="center">
     <h3>Python template</h3>
 </div>
-<p>It's always difficult to code properly when you start codding with a permissive language. In the same mind as React template, we created Python template, a free and open template for all python projects. Like its namesake, python template embedded advanced linting rules, automates boring work and so on. Very advantageous to newcomer and profitable for all teamwork, this template fix limits. <br> Moreover, in Python template, you will find a branch dedicated to Django. This branch hold a Django template based on Python template. Django template is very helpful because it's contained standardized logs, connection to OAuth2 server, etc.  </p>
+<p>It's always difficult to code properly when you start codding with a permissive language. In the same vein as React template, we created Python template, a free and open template for all python projects. Like its namesake, python template embedded advanced linting rules, automates boring work and so on. Very advantageous, this template set boundaries to working team. <br> Moreover, Python template hold branches for specific Python projects as Django branch. A helpful Django template with standardized logs, connection to OAuth2 server, etc.  </p>
