@@ -18,7 +18,7 @@ Please provide detailed steps for reproducing the issue.
 
 Please provide any relevant information about your setup. This is important in case the issue is not reproducible except when under certain conditions.
 
-* Environment version (node, npm, python... pick only the relevant ones
+* Environment version (node, npm, python... pick only the relevant ones)
 * Platform (Linux, Windows, Mac os)
 * Browser with version (if applicable)
 * IDE with version (if applicable)
