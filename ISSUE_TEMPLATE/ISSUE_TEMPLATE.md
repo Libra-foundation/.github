@@ -6,10 +6,6 @@ Please describe the behavior you are expecting
 
 What is the current behavior?
 
-# Failure Information
-
-Please help provide information about the failure if this is a bug. If it is not a bug, please remove the rest of this template.
-
 ## Steps to Reproduce
 
 Please provide detailed steps for reproducing the issue.
@@ -20,18 +16,19 @@ Please provide detailed steps for reproducing the issue.
 
 ## Context
 
-Please provide any relevant information about your setup. This is important in case the issue is not reproducible except for under certain conditions.
+Please provide any relevant information about your setup. This is important in case the issue is not reproducible except when under certain conditions.
 
-* What types of projects you work on ?
-* Which language versions are you using ?
-* Your IDE and its version ?
-* From when error occurred ?
+* Environment version (node, npm, python... pick only the relevant ones
+* Platform (Linux, Windows, Mac os)
+* Browser with version (if applicable)
+* IDE with version (if applicable)
+* Anything that might be useful to reproduce your issue
 
-## Failure Logs
+## Logs
 
-Please include any relevant log snippets or files here.
+Please include any relevant log here. Complete log files are preferred, remember to anonymise any personal data in it.
 
-# Prerequisites
+# Checks
 
 Please answer the following questions for yourself before submitting an issue.
 
