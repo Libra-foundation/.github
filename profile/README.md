@@ -8,17 +8,17 @@
 
 
 <p>
-    This organization contain all repositories offers by Libra foundation. Libra is a branch of E-constellatio company. 
+    This organization contain all repositories offered by the Libra foundation. 
 </p>
 <h2 align="center">
     What is Libra ?
 </h2>
 <p>
-    Libra is a branch of E-constellatio company. Libra offer large amount of free numerical solutions like software, website, server, template etc.
+    Libra is a branch of E-constellatio company. Libra offers abundant free and open digital solutions like softwares, websites, servers, template etc.
 </p>
 <div align="center">
     <h2>
-        Highlighting products
+        Highlighting projects
     </h2>
     <div>
         <img src="https://github.com/Libra-foundation/.github/tree/main/profile/resources/Collaboratio.svg" alt="Collaboratio" height="50"/>
@@ -26,8 +26,8 @@
     </div>
     <h3>Collaboratio</h3>
 </div>
-<p>Collaboratio is a self-hosted website in which you could collaborate on documentation, projects, diagrams, etc.</p>
+<p>Collaboratio is a pull-together website applied to documentations, diagrams, projects management, etc. Collaboratio was created because no free solution fulfill our requirements. Moreover, we think it's a helpful project for many people, and we hope you feel free to contribute to it.</p>
 <div align="center">
     <h3>React template</h3>
 </div>
-<p>React template is a free and advanced template for react project. Based on `react-scripts`, react template develop by E-constellatio include more features like advanced ESLint rules, environment variables, pre-commit hooks and so on.</p>
+<p>React template is a free, reliable and easy to maintain template for react project. Based on `react-scripts`, template hold hardened rules, to keep the code consistent and help everyone avoids mistakes, and a set of utility packages that automates most of the annoying work. This template is particularly useful for newcomer to guide them, they will learn React Typescript with good practices.</p>
