@@ -21,7 +21,7 @@ Your pull request title must contain a tag type plus a short description. Tag mu
 - [BREAKING] : prepend this tag to any PR that breaks retro-compatibility.
 - [DOCUMENTATION] : documentation update.
 
-Example of title : `Bug fix : Pinneaples on pizza were removed`
+Example of title : `[BUG] Pinneaples on pizza were removed`
 
 Your pull request need to hold following part.
 
