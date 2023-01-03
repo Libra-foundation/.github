@@ -29,7 +29,7 @@ any dependencies that are required for this change.
 
 Why you choose this method of implementation ? Why not another one ?
 
-## Checks
+## 3) Checks
 
 - [ ] My code follows the contributing guidelines
 - [ ] I have read the code of conduct
