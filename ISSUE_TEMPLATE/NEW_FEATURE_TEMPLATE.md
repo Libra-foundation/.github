@@ -1,23 +1,17 @@
----
-name: Feature request \
-about: Suggest an idea for this project \
-title: Feature request \
-labels: feature
+### Prerequisites
 
----
+Please use markdown in your issue message. A useful summary of commands can be
+found [here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
 
 ### Summary
 
-One paragraph explanation of the feature.
+Explain of the feature you would like. You may add images, exemples, anything you think is relevant to your point.
 
 ### Motivation
 
-Why is this feature of general interest?
+Why is this feature of general interest ? Tell us why you want this feature, in what it is a good feature to add.
 
 ### Implementation
 
-What solution do you suggest?
-
-### Formatting
-
-Please use markdown in your issue message. A useful summary of commands can be found [here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
+What solution do you suggest ? You can add here technical details if you have the knowledge or just describe the general
+solution you propose (ie: add a button, a macro ...).
