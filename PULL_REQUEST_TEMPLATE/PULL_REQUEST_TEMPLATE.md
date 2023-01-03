@@ -1,4 +1,5 @@
-Disclaimer :exclamation: Issues are formatted using markdown, a useful summary of the features provided by GitHub can be found here.
+Disclaimer :exclamation: Issues are formatted using markdown, a useful summary of the features provided by GitHub can be
+found [here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
 
 ## Prerequisites
 
