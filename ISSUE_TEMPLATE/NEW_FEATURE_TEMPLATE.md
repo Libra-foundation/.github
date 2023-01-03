@@ -1,11 +1,20 @@
+---
+
+name: Feature request \
+about: Suggest an idea for this project \
+title: Feature request \
+labels: feature
+
+---
+
 ### Prerequisites
 
-Please use markdown in your issue message. A useful summary of commands can be
+Issues are formatted using markdown, a useful summary of the features provided by GitHub can be
 found [here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
 
 ### Summary
 
-Explain of the feature you would like. You may add images, exemples, anything you think is relevant to your point.
+Explain the feature you would like. You may add images, exemples, anything you think is relevant to your point.
 
 ### Motivation
 
