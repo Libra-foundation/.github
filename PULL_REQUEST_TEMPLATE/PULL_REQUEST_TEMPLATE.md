@@ -1,9 +1,9 @@
-Disclaimer :exclamation: Issues are formatted using markdown, a useful summary of the features provided by GitHub can be
+Disclaimer :exclamation: Pull request are formatted using markdown, a useful summary of the features provided by GitHub can be
 found [here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
 
 ## Prerequisites
 
-***This part help you to don't forget anything before create pull request, If everything seem good you can delete it***
+***This part is a (lovely) reminder before creating a pull request, If everything seem good you can delete it***
 
 Thanks for your contribution :heart:. Before creating a pull request please make sure you checked all conditions of
 the [checks part](#Checks), including all following parts and the title rules as this makes our lives easier :heart:.
