@@ -2,12 +2,12 @@
 
 ***This part help you to don't forget anything before create pull request, If everything seem good you can delete it***
 
-Thanks for your contribution :heart:. Before creating a pull request please make sure you checked all conditions
-of [checks part](#Checks), includes all following parts and title respect rule.
+Thanks for your contribution :heart:. Before creating a pull request please make sure you checked all conditions of
+the [checks part](#Checks), including all following parts and the title rules as this makes our lives easier :heart:.
 
 ### Pull request title :
 
-Your pull request title must contain a tag type plus a short description. Tag must be relevant and minimal, this is a
+Your pull request title must contain a tag type plus a short description. Tags must be relevant and minimal, here is a
 non-exhaustive list:
 
 - [BUG] : bug fix.
@@ -24,7 +24,7 @@ any dependencies that are required for this change.
 
 ## 2) Technical choice
 
-Why you choose this method of implementation ? Why not another one ? 
+Why you choose this method of implementation ? Why not another one ?
 
 ## Checks
 
@@ -35,4 +35,3 @@ Why you choose this method of implementation ? Why not another one ?
 - [ ] Your changes generate no new warnings
 - [ ] You have added tests that prove your fix is effective or that your feature works
 - [ ] New and existing unit tests pass locally with your changes
-- [ ] Any dependent changes have been merged and published in downstream modules
