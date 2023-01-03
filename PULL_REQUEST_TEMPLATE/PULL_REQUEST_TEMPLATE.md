@@ -31,10 +31,8 @@ Why you choose this method of implementation ? Why not another one ?
 
 ## Checks
 
-- [ ] Your code follows the style guidelines of this project
-- [ ] You have performed a self-review of your code
-- [ ] You have commented your code, particularly in hard-to-understand areas
-- [ ] You have made corresponding changes to the documentation
-- [ ] Your changes generate no new warnings
-- [ ] You have added tests that prove your fix is effective or that your feature works
-- [ ] New and existing unit tests pass locally with your changes
+- [ ] My code follows the contributing guidelines
+- [ ] I have read the code of conduct
+- [ ] I have performed a self-review of my code
+- [ ] My changes generate no new warnings
+- [ ] New and existing unit tests pass locally with my changes
