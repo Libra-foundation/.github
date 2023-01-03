@@ -1,3 +1,5 @@
+Disclaimer :exclamation: Issues are formatted using markdown, a useful summary of the features provided by GitHub can be found here.
+
 ## Prerequisites
 
 ***This part help you to don't forget anything before create pull request, If everything seem good you can delete it***
