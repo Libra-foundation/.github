@@ -1,3 +1,12 @@
+---
+
+name: Issue request 
+about: Report a bug about the project
+title: Issue request 
+labels: bug
+
+---
+
 Issues are formatted using markdown, a useful summary of the features provided by GitHub can be
 found [here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
 
