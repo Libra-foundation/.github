@@ -1,8 +1,8 @@
 ---
 
-name: Issue request 
+name: Bug report
 about: Report a bug about the project
-title: Issue request 
+title: Bug report 
 labels: bug
 
 ---
