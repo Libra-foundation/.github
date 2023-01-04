@@ -20,19 +20,25 @@
     <h2>
         Highlighting projects
     </h2>
-    <div>
-        <img src="https://github.com/Libra-foundation/.github/tree/main/profile/resources/Collaboratio.svg" alt="Collaboratio" height="50"/>
-        <img src="https://github.com/Libra-foundation/.github/tree/main/profile/resources/ReactTemplate.svg" alt="ReactTemplate" height="50"/>
-        <img src="https://github.com/Libra-foundation/.github/tree/main/profile/resources/PythonTemplate.svg" alt="PythonTemplate" height="50"/>
-    </div>
-    <h3>Collaboratio</h3>
 </div>
-<p>Collaboratio is a pull-together website applied to documentations, diagrams, projects management, etc. Collaboratio was created because no free solution fulfill our requirements. Moreover, we think it's a helpful project for many people. Feel free to contribute :blush:.</p>
 <div align="center">
-    <h3>React template</h3>
+    <img src="https://github.com/Libra-foundation/.github/tree/main/profile/resources/Collaboratio.svg" alt="Collaboratio" height="50"/>
 </div>
-<p>React template is a free, reliable and easy to maintain template for react project. Based on `react-scripts`, we configured a set of utility packages that automates most of the annoying work. To help everyone avoid common mistakes and keep the code nice and tidy, we added hardened rules.  This template is particularly useful for newcomers to guide them through the learning of React Typescript with good practices.</p>
+<details>
+    <summary align="center"><h3>Collaboratio</h3></summary>
+    <p>Collaboratio is a pull-together website applied to documentations, diagrams, projects management, etc. Collaboratio was created because no free solution fulfill our requirements. Moreover, we think it's a helpful project for many people. Feel free to contribute :blush:.</p>
+</details>
 <div align="center">
-    <h3>Python template</h3>
+    <img src="https://github.com/Libra-foundation/.github/tree/main/profile/resources/ReactTemplate.svg" alt="ReactTemplate" height="50"/>
 </div>
-<p>It's always difficult to code properly when you start codding with a permissive language. In the same vein as React template, we created Python template, a free and open template for all python projects. Like its namesake, python template embedded advanced linting rules, automates boring work and so on. Very advantageous, this template set boundaries to working team. <br> Moreover, Python template hold branches for specific Python projects, such as a Django branch. A helpful Django template with standardized logs, connection to OAuth2 server, etc.  </p>
+<details>
+    <summary align="center"><h3>React template</h3></summary> 
+    <p>React template is a free, reliable and easy to maintain template for react project. Based on `react-scripts`, we configured a set of utility packages that automates most of the annoying work. To help everyone avoid common mistakes and keep the code nice and tidy, we added hardened rules.  This template is particularly useful for newcomers to guide them through the learning of React Typescript with good practices.</p>
+</details>
+<div align="center">
+    <img src="https://github.com/Libra-foundation/.github/tree/main/profile/resources/PythonTemplate.svg" alt="PythonTemplate" height="50"/>
+</div>
+<details>
+    <summary align="center"><h3>Python template</h3></summary>
+    <p>It's always difficult to code properly when you start codding with a permissive language. In the same vein as React template, we created Python template, a free and open template for all python projects. Like its namesake, python template embedded advanced linting rules, automates boring work and so on. Very advantageous, this template set boundaries to working team. <br> Moreover, Python template hold branches for specific Python projects, such as a Django branch. A helpful Django template with standardized logs, connection to OAuth2 server, etc.  </p>
+</details>
