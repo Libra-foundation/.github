@@ -34,7 +34,7 @@
     <img src="https://github.com/Libra-foundation/.github/blob/main/profile/resources/ReactTemplate.svg" alt="ReactTemplate" height="50"/>
     <details>
         <summary><h3>React template</h3></summary>
-        <div align="center">
+        <div align="left">
             <p>React template is a free, reliable and easy to maintain template for react project. Based on `react-scripts`, we configured a set of utility packages that automates most of the annoying work. To help everyone avoid common mistakes and keep the code nice and tidy, we added hardened rules.  This template is particularly useful for newcomers to guide them through the learning of React Typescript with good practices.</p>
         </div>
     </details>
