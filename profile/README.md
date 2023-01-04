@@ -25,7 +25,7 @@
     <img src="https://github.com/Libra-foundation/.github/blob/main/profile/resources/Collaboratio.svg" alt="Collaboratio" height="50"/>
     <details>
     <summary><h3>Collaboratio</h3></summary>
-    <div align="center">
+    <div align="left">
         <p>Collaboratio is a pull-together website applied to documentations, diagrams, projects management, etc. Collaboratio was created because no free solution fulfill our requirements. Moreover, we think it's a helpful project for many people. Feel free to contribute :blush:.</p>
     </div>
     </details>
