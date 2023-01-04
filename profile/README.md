@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/Libra-foundation/.github/tree/main/profile/resources/puff.svg" alt="Pending on logo" height="150"/>
+    <img src="https://github.com/Libra-foundation/.github/blob/main/profile/resources/puff.svg" alt="Pending on logo" height="150"/>
     <h1>
         Welcome in Libra foundation GitHub organization
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hi hand" width="30px"/>
@@ -22,21 +22,21 @@
     </h2>
 </div>
 <div align="center">
-    <img src="https://github.com/Libra-foundation/.github/tree/main/profile/resources/Collaboratio.svg" alt="Collaboratio" height="50"/>
+    <img src="https://github.com/Libra-foundation/.github/blob/main/profile/resources/Collaboratio.svg" alt="Collaboratio" height="50"/>
 </div>
 <details>
     <summary align="center"><h3>Collaboratio</h3></summary>
     <p>Collaboratio is a pull-together website applied to documentations, diagrams, projects management, etc. Collaboratio was created because no free solution fulfill our requirements. Moreover, we think it's a helpful project for many people. Feel free to contribute :blush:.</p>
 </details>
 <div align="center">
-    <img src="https://github.com/Libra-foundation/.github/tree/main/profile/resources/ReactTemplate.svg" alt="ReactTemplate" height="50"/>
+    <img src="https://github.com/Libra-foundation/.github/blob/main/profile/resources/ReactTemplate.svg" alt="ReactTemplate" height="50"/>
 </div>
 <details>
     <summary align="center"><h3>React template</h3></summary> 
     <p>React template is a free, reliable and easy to maintain template for react project. Based on `react-scripts`, we configured a set of utility packages that automates most of the annoying work. To help everyone avoid common mistakes and keep the code nice and tidy, we added hardened rules.  This template is particularly useful for newcomers to guide them through the learning of React Typescript with good practices.</p>
 </details>
 <div align="center">
-    <img src="https://github.com/Libra-foundation/.github/tree/main/profile/resources/PythonTemplate.svg" alt="PythonTemplate" height="50"/>
+    <img src="https://github.com/Libra-foundation/.github/blob/main/profile/resources/PythonTemplate.svg" alt="PythonTemplate" height="50"/>
 </div>
 <details>
     <summary align="center"><h3>Python template</h3></summary>
