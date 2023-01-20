@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/Libra-foundation/.github/blob/main/profile/resources/puff.svg" alt="Pending on logo" height="150"/>
+    <img src="https://avatars.githubusercontent.com/u/120605611?s=400&v=4" height="150"/>
     <h1>
         Welcome in Libra foundation GitHub organization
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hi hand" width="30px"/>
@@ -22,7 +22,7 @@
     </h2>
 </div>
 <div align="center">
-    <img src="https://github.com/Libra-foundation/.github/blob/main/profile/resources/Collaboratio.svg" alt="Collaboratio" height="50"/>
+    <img src="https://github.com/E-constellatio/Resources/blob/master/icons/Libra/Collaboratio/Collaboratio.svg" alt="Collaboratio" height="50"/>
     <details>
     <summary><h3>Collaboratio</h3></summary>
     <div align="left">
@@ -31,7 +31,7 @@
     </details>
 </div>
 <div align="center">
-    <img src="https://github.com/Libra-foundation/.github/blob/main/profile/resources/ReactTemplate.svg" alt="ReactTemplate" height="50"/>
+    <img src="https://github.com/E-constellatio/Resources/blob/master/icons/Libra/React%20Template/React_Template.svg" alt="ReactTemplate" height="50"/>
     <details>
         <summary><h3>React template</h3></summary>
         <div align="left">
@@ -40,7 +40,7 @@
     </details>
 </div>
 <div align="center">
-    <img src="https://github.com/Libra-foundation/.github/blob/main/profile/resources/PythonTemplate.svg" alt="PythonTemplate" height="50"/>
+    <img src="https://github.com/E-constellatio/Resources/blob/master/icons/Libra/Python%20Template/Python_template.svg" alt="PythonTemplate" height="50"/>
     <details>
         <summary><h3>Python template</h3></summary>
         <div align="left">
