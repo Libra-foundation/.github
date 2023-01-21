@@ -1,0 +1,42 @@
+name: 💻 Feature request
+description: Report an idea of feature
+title: "[FEATURE]: "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Issues are formatted using markdown, a useful summary of the features provided by GitHub can be found [here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
+  - type: textarea
+    attributes:
+      label: Summary
+      description: Explain the feature you would like. You may add images, exemples, anything you think is relevant to your point.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Motivation
+      description: Why is this feature of general interest ? Tell us why you want this feature, in what it is a good feature to add.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Implementation
+      description: What solution do you suggest ? You can add here technical details if you have the knowledge.
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Checks
+      description: By submitting this issue, you agree to follow our Code of Conduct.
+      options:
+        - label: I am running the latest version
+          required: true
+        - label: I checked the documentation and found no answer
+          required: true
+        - label: I checked to make sure that this issue has not already been filed
+          required: true
+        - label: I'm reporting the issue to the correct repository
+          required: true
